@@ -24,6 +24,7 @@ Hi, I'm Zubair, also known as Zuber. I am a Database Administrator and a Web Dev
 <br /> <!-- Tambahkan ini -->
 <br /> <!-- Tambahkan ini -->
 <br /> <!-- Tambahkan ini -->
+<br /> <!-- Tambahkan ini -->
 ![Linux](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
 ![Linux](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)
