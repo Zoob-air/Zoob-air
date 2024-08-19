@@ -11,7 +11,8 @@ Hi, I'm Zubair, also known as Zuber. I am a Database Administrator and a Web Dev
 
 <!-- **[Website](https://dhafit.xyz/)**<br /> -->
 <!-- **[Twitter](https://twitter.com/dhafitf)**<br /> -->
-**[Instagram](https://www.instagram.com/dzuu_bair)**
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dzuu_bair)
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=Zoob-air&show_icons=true&theme=tokyonight&locale=en" alt="Zoob-air" /></p>
 
