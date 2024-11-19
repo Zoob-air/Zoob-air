@@ -1,6 +1,6 @@
 # 💫 About Me:
-I'm currently working on PT. Prima Integrasi Network<br>I'm Budiluhur University Student<br>
-**Zubair | Master DBA**
+I'm currently working on **PT. Prima Integrasi Network**<br>I'm **Budiluhur University** Student<br>
+**Zubair | DBA**
 
 
 ## 🌐 Socials:
