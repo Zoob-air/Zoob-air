@@ -13,6 +13,7 @@ I'm currently working on PT. Prima Integrasi Network<br>I'm Budiluhur University
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zubair&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zubair&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
@@ -23,3 +24,8 @@ I'm currently working on PT. Prima Integrasi Network<br>I'm Budiluhur University
 [![](https://visitcount.itsvg.in/api?id=zubair&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+# **Click Link Here**
+
+### Basic Bash Script
+[![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/Zoob-air/Basic-Shell-Script/blob/main/BasicShellScript.md)
